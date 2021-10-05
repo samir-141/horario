@@ -8,7 +8,7 @@ body
 }
 input
 {
-    width: 40%;
+    width: 50%;
     margin-left: 30%;
     background-image: url(img/descarga.jpg);
     color: white;
@@ -29,7 +29,7 @@ h2
 }
 .boton
 {
-    width: 80%;
+    width: 100%;
     margin-right: 10%;
     height: 20px;
 }
