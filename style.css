@@ -10,7 +10,7 @@ input
 {
     width: 40%;
     margin-left: 30%;
-    background-image: url(descarga.jpg);
+    background-image: url(img/descarga.jpg);
     color: white;
 }
 h3
@@ -53,7 +53,7 @@ footer
     border: 1px rgb(48, 230, 54) solid;
     height: 50px;
     color: tomato;
-    background-image: url(bye.jpg);
+    background-image: url(img/bye.jpg);
 }
 .clase
 {
@@ -61,7 +61,7 @@ footer
     border: 1px rgb(48, 230, 54) solid;
     height: 150px;
     color: thistle;
-    background-image: url(hola.jpg);
+    background-image: url(img/hola.jpg);
     position: relative;
 }
 #cuerpo
@@ -86,6 +86,6 @@ footer
 {
     width: 100%;
     height: 540px;
-    background-image: url(hi.jpg);
+    background-image: url(img/hi.jpg);
     border: 5px rgb(169, 169, 150) inset;
 }
